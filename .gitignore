@@ -1,0 +1,6 @@
+/vendor/
+/.phpunit.cache/
+.env
+*.log
+__pycache__/
+*.pyc

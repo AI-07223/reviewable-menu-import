@@ -1,0 +1,242 @@
+[
+    {
+        "fixture": "clear",
+        "provider": "Mistral",
+        "model": "pixtral-12b-2409",
+        "utc": "2026-11-01T09:59:28+00:00",
+        "categories": [
+            {
+                "name": "Menu",
+                "items": [
+                    {
+                        "name": "Paneer Tikka",
+                        "price": 250,
+                        "is_veg": true,
+                        "variations": []
+                    },
+                    {
+                        "name": "Chicken Tikka",
+                        "price": 320,
+                        "is_veg": false,
+                        "variations": []
+                    },
+                    {
+                        "name": "Dal Tadka",
+                        "price": 180,
+                        "is_veg": true,
+                        "variations": []
+                    },
+                    {
+                        "name": "Butter Naan",
+                        "price": 45,
+                        "is_veg": true,
+                        "variations": []
+                    },
+                    {
+                        "name": "Jeera Rice",
+                        "price": 140,
+                        "is_veg": true,
+                        "variations": []
+                    },
+                    {
+                        "name": "Mango Lassi",
+                        "price": 90,
+                        "is_veg": true,
+                        "variations": []
+                    }
+                ]
+            }
+        ],
+        "status": "ok",
+        "elapsed_seconds": 8.507
+    },
+    {
+        "fixture": "two-column",
+        "provider": "Mistral",
+        "model": "pixtral-12b-2409",
+        "utc": "2026-11-01T09:59:37+00:00",
+        "categories": [
+            {
+                "name": "Menu",
+                "items": [
+                    {
+                        "name": "Veg Samosa",
+                        "price": 40,
+                        "is_veg": true,
+                        "variations": []
+                    },
+                    {
+                        "name": "Chicken Roll",
+                        "price": 120,
+                        "is_veg": false,
+                        "variations": []
+                    },
+                    {
+                        "name": "Tomato Soup",
+                        "price": 95,
+                        "is_veg": true,
+                        "variations": []
+                    },
+                    {
+                        "name": "Fish Fry",
+                        "price": 240,
+                        "is_veg": false,
+                        "variations": []
+                    },
+                    {
+                        "name": "Palak Paneer",
+                        "price": 220,
+                        "is_veg": true,
+                        "variations": []
+                    },
+                    {
+                        "name": "Egg Curry",
+                        "price": 160,
+                        "is_veg": false,
+                        "variations": []
+                    },
+                    {
+                        "name": "Plain Rice",
+                        "price": 100,
+                        "is_veg": true,
+                        "variations": []
+                    },
+                    {
+                        "name": "Lemon Soda",
+                        "price": 60,
+                        "is_veg": true,
+                        "variations": []
+                    }
+                ]
+            }
+        ],
+        "status": "ok",
+        "elapsed_seconds": 6.233
+    },
+    {
+        "fixture": "portions",
+        "provider": "Mistral",
+        "model": "pixtral-12b-2409",
+        "utc": "2026-11-01T09:59:43+00:00",
+        "categories": [
+            {
+                "name": "Menu",
+                "items": [
+                    {
+                        "name": "Veg Biryani",
+                        "price": 150,
+                        "is_veg": true,
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 150
+                            },
+                            {
+                                "name": "Full",
+                                "price": 260
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chicken Biryani",
+                        "price": 190,
+                        "is_veg": false,
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 190
+                            },
+                            {
+                                "name": "Full",
+                                "price": 340
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Paneer Curry",
+                        "price": 170,
+                        "is_veg": true,
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 170
+                            },
+                            {
+                                "name": "Full",
+                                "price": 290
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chicken Curry",
+                        "price": 210,
+                        "is_veg": false,
+                        "variations": [
+                            {
+                                "name": "Half",
+                                "price": 210
+                            },
+                            {
+                                "name": "Full",
+                                "price": 370
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "status": "ok",
+        "elapsed_seconds": 5.616
+    },
+    {
+        "fixture": "blurred",
+        "provider": "Mistral",
+        "model": "pixtral-12b-2409",
+        "utc": "2026-11-01T09:59:49+00:00",
+        "categories": [
+            {
+                "name": "Menu",
+                "items": [
+                    {
+                        "name": "Paneer Tikka",
+                        "price": 250,
+                        "is_veg": true,
+                        "variations": []
+                    },
+                    {
+                        "name": "Chicken Tikka",
+                        "price": 320,
+                        "is_veg": false,
+                        "variations": []
+                    },
+                    {
+                        "name": "Dal Tadka",
+                        "price": 180,
+                        "is_veg": true,
+                        "variations": []
+                    },
+                    {
+                        "name": "Butter Naan",
+                        "price": 45,
+                        "is_veg": true,
+                        "variations": []
+                    },
+                    {
+                        "name": "Jeera Rice",
+                        "price": 140,
+                        "is_veg": true,
+                        "variations": []
+                    },
+                    {
+                        "name": "Mango Lassi",
+                        "price": 90,
+                        "is_veg": true,
+                        "variations": []
+                    }
+                ]
+            }
+        ],
+        "status": "ok",
+        "elapsed_seconds": 4.351
+    }
+]

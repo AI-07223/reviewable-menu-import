@@ -1,0 +1,46 @@
+[
+  {
+    "fixture": "clear",
+    "expected": 6,
+    "extracted": 6,
+    "matched": 6,
+    "missing": [],
+    "extra": [],
+    "duplicates": [],
+    "field_errors": [],
+    "seconds": 8.507
+  },
+  {
+    "fixture": "two-column",
+    "expected": 8,
+    "extracted": 8,
+    "matched": 8,
+    "missing": [],
+    "extra": [],
+    "duplicates": [],
+    "field_errors": [],
+    "seconds": 6.233
+  },
+  {
+    "fixture": "portions",
+    "expected": 4,
+    "extracted": 4,
+    "matched": 4,
+    "missing": [],
+    "extra": [],
+    "duplicates": [],
+    "field_errors": [],
+    "seconds": 5.616
+  },
+  {
+    "fixture": "blurred",
+    "expected": 6,
+    "extracted": 6,
+    "matched": 6,
+    "missing": [],
+    "extra": [],
+    "duplicates": [],
+    "field_errors": [],
+    "seconds": 4.351
+  }
+]

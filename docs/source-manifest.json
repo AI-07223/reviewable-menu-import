@@ -1,0 +1,52 @@
+[
+  {
+    "sample_path": "app/Services/MenuScanner.php",
+    "original_relative_path": "app/Services/MenuScanner.php",
+    "sha256": "bf144b33bab89ea3d67b9b9a56001bba3dfd8eaae43ed2763cdd4f0686de0967"
+  },
+  {
+    "sample_path": "app/Support/ColorExtractor.php",
+    "original_relative_path": "app/Support/ColorExtractor.php",
+    "sha256": "a93b531828a17acf63be33db10b5f03d36bb91cc7570b1bdb2e479a55cc9fb79"
+  },
+  {
+    "sample_path": "app/Support/LogoProcessor.php",
+    "original_relative_path": "app/Support/LogoProcessor.php",
+    "sha256": "98bd562c6930e1ff4d9a54be44952785cc77f0bd037b9a410c8d6976b34d448c"
+  },
+  {
+    "sample_path": "integration/tests/Feature/ImportMenuTest.php",
+    "original_relative_path": "tests/Feature/ImportMenuTest.php",
+    "sha256": "1b25f42fc539f7700c06e2b1216f2bd38d8436392fef20913bf293b07ab231dc"
+  },
+  {
+    "sample_path": "integration/tests/Feature/LogoAutoResizeTest.php",
+    "original_relative_path": "tests/Feature/LogoAutoResizeTest.php",
+    "sha256": "2bfd02ba6c1d9ce9bce75dd1a95235e423836c23a7a5c50d418ac3cc6418c80a"
+  },
+  {
+    "sample_path": "integration/tests/Feature/OnboardingTest.php",
+    "original_relative_path": "tests/Feature/OnboardingTest.php",
+    "sha256": "cf0f40974121c762cf313a71f8e1ce94a088e5b700461104e3e97f9d1bbe88fc"
+  },
+  {
+    "sample_path": "integration/resources/js/menu-import/main.jsx",
+    "original_relative_path": "resources/js/menu-import/main.jsx",
+    "sha256": "b3c5f26e5119fbfeab5c1d30cdef5defc8abd70e76ba4b27d8081c9cbf015b12"
+  },
+  {
+    "sample_path": "integration/app/Http/Controllers/MenuImportController.php",
+    "original_relative_path": "app/Http/Controllers/MenuImportController.php",
+    "sha256": "cf1bb1db7dd82a2cf7fbf70a8c58de45bba8c1e5114428f6469bea8879fab165"
+  },
+  {
+    "sample_path": "integration/app/Http/Controllers/OnboardingController.php",
+    "original_relative_path": "app/Http/Controllers/OnboardingController.php",
+    "sha256": "35de113168799a977cfd6967489835f38e7105a038f2a511ab1e33b17e572afd"
+  },
+  {
+    "sample_path": "integration/app/Filament/Pages/ManageUpi.php",
+    "original_relative_path": "app/Filament/Pages/ManageUpi.php",
+    "sha256": "a52e35b93e52d2b6c3387c88b9ee1753661e54a7400248520a7e39f087c1b30d"
+  }
+]
